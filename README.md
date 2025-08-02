@@ -11,4 +11,4 @@ pip install --upgrade pip
 pip install pygame
 ```
 
-run snake.bat to start the game.
+run snake.bat to start the game
