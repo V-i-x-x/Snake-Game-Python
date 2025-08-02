@@ -1,4 +1,4 @@
-Developed a snake game for learning purposes
+Developed a snake game for learning purposes.
 
 # Snake Game
 ## Requirements:
